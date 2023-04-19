@@ -31,6 +31,6 @@
   
 ### Working on
 
-<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="images/factorlibre.png" alt="FactorLibre" /></a>
-
+[<a href="https://github.com/factorlibre" target="_blank" rel="noreferrer"><img src="images/factorlibre.png" alt="FactorLibre" /></a>
+](https://factorlibre.com/wp-content/uploads/2017/11/logo-factor-libre-menu-colour.png)
 </div>
